@@ -27,4 +27,4 @@ The main graphics driver listed below must be installed for the driver to work p
 
 |   OSV |Branch   	| installation instructions | 
 |---	|---	| --- |
-| SUSE® Linux® Enterprise Server 15SP3	| [suse/main](https://github.com/intel-gpu/dmabuf_peer_mem/tree/suse/main) |[Readme](https://github.com/intel-gpu/dmabuf_peer_mem/blob/suse/main/README.md)|
+| SUSE® Linux® Enterprise Server 15SP4	| [suse/main](https://github.com/intel-gpu/dmabuf_peer_mem/tree/suse/main) |[Readme](https://github.com/intel-gpu/dmabuf_peer_mem/blob/suse/main/README.md)|
