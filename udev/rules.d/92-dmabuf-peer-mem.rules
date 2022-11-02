@@ -1,0 +1,2 @@
+ACTION=="add", SUBSYSTEM=="infiniband", RUN+="/sbin/modprobe dmabuf_peer_mem"
+KERNEL=="dmabuf_reg", MODE="0666"
